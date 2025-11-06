@@ -1,5 +1,5 @@
 # Hi there, i'm 3! 😺
-# I'm currently studying under Mulawarman University as an Informatics Student 💫<br><br>- 🌱 I’m currently learning Python and C++<br>- ✨ Other Interest: Graphics Design & 3D Modelling<br>--><br>
+# I'm currently studying under Mulawarman University as an Informatics Student 💫<br><br>- 🌱 I’m currently learning Python and C++<br>- ✨ Other Interest: Graphics Design<br>--><br>
 
 
 ## 🌐 Socials:
